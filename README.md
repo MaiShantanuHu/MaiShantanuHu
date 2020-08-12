@@ -1,4 +1,4 @@
-# Hi Shantanu here 👋💻
+# Hi, Shantanu here! 👋💻
 
 ## A diligent Data Analyst student! 
 
