@@ -3,7 +3,7 @@
 ## A diligent Data Analyst student! 
 
 - 🔭 I’m currently on a website.
-- 🌱 I’m currently learning Django python.
+- 🌱 I’m currently learning Data Analysis project.
 - 👯 I’m looking to collaborate on projects on analyzing.
 
 ## Find me around the web 🌎:
