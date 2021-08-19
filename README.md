@@ -1,6 +1,6 @@
 # Hi, Shantanu here! 👋💻
 
-## A diligent Data Analyst student! 
+## A diligent Developer and student! 
 
 - 🔭 I’m currently on a website.
 - 🌱 I’m currently learning Web Developmenet projects.
